@@ -1,0 +1,212 @@
+2024-03-07 20:13:09,654 INFO com.tn.Demo55AllApplication [restartedMain] Starting Demo55AllApplication using Java 17.0.9 with PID 10108 (D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All\target\classes started by ADMIN in D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All)
+2024-03-07 20:13:09,654 DEBUG com.tn.Demo55AllApplication [restartedMain] Running with Spring Boot v3.1.9, Spring v6.0.17
+2024-03-07 20:13:09,655 INFO com.tn.Demo55AllApplication [restartedMain] The following 1 profile is active: "local"
+2024-03-07 20:13:10,045 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2024-03-07 20:13:10,045 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-07 20:13:10,067 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2024-03-07 20:13:10,121 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-03-07 20:13:10,135 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Starting...
+2024-03-07 20:13:10,150 INFO com.zaxxer.hikari.pool.HikariPool [restartedMain] HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6670e453
+2024-03-07 20:13:10,151 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Start completed.
+2024-03-07 20:13:10,208 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-03-07 20:13:10,525 INFO com.tn.Demo55AllApplication [restartedMain] Started Demo55AllApplication in 0.93 seconds (process running for 124.754)
+2024-03-07 20:15:10,174 INFO org.apache.catalina.core.StandardService [Thread-7] Stopping service [Tomcat]
+2024-03-07 20:15:10,184 INFO com.zaxxer.hikari.HikariDataSource [Thread-7] HikariPool-2 - Shutdown initiated...
+2024-03-07 20:15:10,192 INFO com.zaxxer.hikari.HikariDataSource [Thread-7] HikariPool-2 - Shutdown completed.
+2024-03-07 20:15:10,290 INFO com.tn.Demo55AllApplication [restartedMain] Starting Demo55AllApplication using Java 17.0.9 with PID 10108 (D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All\target\classes started by ADMIN in D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All)
+2024-03-07 20:15:10,290 DEBUG com.tn.Demo55AllApplication [restartedMain] Running with Spring Boot v3.1.9, Spring v6.0.17
+2024-03-07 20:15:10,290 INFO com.tn.Demo55AllApplication [restartedMain] The following 1 profile is active: "local"
+2024-03-07 20:15:10,661 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2024-03-07 20:15:10,662 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-07 20:15:10,685 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2024-03-07 20:15:10,736 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-03-07 20:15:10,745 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-3 - Starting...
+2024-03-07 20:15:10,759 INFO com.zaxxer.hikari.pool.HikariPool [restartedMain] HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5386328f
+2024-03-07 20:15:10,760 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-3 - Start completed.
+2024-03-07 20:15:10,816 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-03-07 20:15:11,173 INFO com.tn.Demo55AllApplication [restartedMain] Started Demo55AllApplication in 0.913 seconds (process running for 245.401)
+2024-03-07 20:15:12,659 INFO org.apache.catalina.core.StandardService [Thread-11] Stopping service [Tomcat]
+2024-03-07 20:15:12,676 INFO com.zaxxer.hikari.HikariDataSource [Thread-11] HikariPool-3 - Shutdown initiated...
+2024-03-07 20:15:12,682 INFO com.zaxxer.hikari.HikariDataSource [Thread-11] HikariPool-3 - Shutdown completed.
+2024-03-07 20:15:12,786 INFO com.tn.Demo55AllApplication [restartedMain] Starting Demo55AllApplication using Java 17.0.9 with PID 10108 (D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All\target\classes started by ADMIN in D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All)
+2024-03-07 20:15:12,787 DEBUG com.tn.Demo55AllApplication [restartedMain] Running with Spring Boot v3.1.9, Spring v6.0.17
+2024-03-07 20:15:12,788 INFO com.tn.Demo55AllApplication [restartedMain] The following 1 profile is active: "local"
+2024-03-07 20:15:13,168 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2024-03-07 20:15:13,168 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-07 20:15:13,190 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2024-03-07 20:15:13,242 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-03-07 20:15:13,253 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-4 - Starting...
+2024-03-07 20:15:13,266 INFO com.zaxxer.hikari.pool.HikariPool [restartedMain] HikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@41e3509e
+2024-03-07 20:15:13,267 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-4 - Start completed.
+2024-03-07 20:15:13,327 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-03-07 20:15:13,636 INFO com.tn.Demo55AllApplication [restartedMain] Started Demo55AllApplication in 0.893 seconds (process running for 247.864)
+2024-03-07 20:16:11,114 INFO org.apache.catalina.core.StandardService [Thread-15] Stopping service [Tomcat]
+2024-03-07 20:16:11,118 INFO com.zaxxer.hikari.HikariDataSource [Thread-15] HikariPool-4 - Shutdown initiated...
+2024-03-07 20:16:11,122 INFO com.zaxxer.hikari.HikariDataSource [Thread-15] HikariPool-4 - Shutdown completed.
+2024-03-07 20:16:11,188 INFO com.tn.Demo55AllApplication [restartedMain] Starting Demo55AllApplication using Java 17.0.9 with PID 10108 (D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All\target\classes started by ADMIN in D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All)
+2024-03-07 20:16:11,189 DEBUG com.tn.Demo55AllApplication [restartedMain] Running with Spring Boot v3.1.9, Spring v6.0.17
+2024-03-07 20:16:11,189 INFO com.tn.Demo55AllApplication [restartedMain] The following 1 profile is active: "local"
+2024-03-07 20:16:11,519 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2024-03-07 20:16:11,519 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-07 20:16:11,544 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2024-03-07 20:16:11,600 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-03-07 20:16:11,609 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-5 - Starting...
+2024-03-07 20:16:11,631 INFO com.zaxxer.hikari.pool.HikariPool [restartedMain] HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@48436556
+2024-03-07 20:16:11,632 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-5 - Start completed.
+2024-03-07 20:16:11,692 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-03-07 20:16:12,001 INFO com.tn.Demo55AllApplication [restartedMain] Started Demo55AllApplication in 0.835 seconds (process running for 306.229)
+2024-03-07 20:16:13,436 INFO org.apache.catalina.core.StandardService [Thread-19] Stopping service [Tomcat]
+2024-03-07 20:16:13,442 INFO com.zaxxer.hikari.HikariDataSource [Thread-19] HikariPool-5 - Shutdown initiated...
+2024-03-07 20:16:13,447 INFO com.zaxxer.hikari.HikariDataSource [Thread-19] HikariPool-5 - Shutdown completed.
+2024-03-07 20:16:13,533 INFO com.tn.Demo55AllApplication [restartedMain] Starting Demo55AllApplication using Java 17.0.9 with PID 10108 (D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All\target\classes started by ADMIN in D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All)
+2024-03-07 20:16:13,533 DEBUG com.tn.Demo55AllApplication [restartedMain] Running with Spring Boot v3.1.9, Spring v6.0.17
+2024-03-07 20:16:13,534 INFO com.tn.Demo55AllApplication [restartedMain] The following 1 profile is active: "local"
+2024-03-07 20:16:13,852 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2024-03-07 20:16:13,852 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-07 20:16:13,875 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2024-03-07 20:16:13,911 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-03-07 20:16:13,920 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-6 - Starting...
+2024-03-07 20:16:13,935 INFO com.zaxxer.hikari.pool.HikariPool [restartedMain] HikariPool-6 - Added connection com.mysql.cj.jdbc.ConnectionImpl@78d7b0bd
+2024-03-07 20:16:13,935 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-6 - Start completed.
+2024-03-07 20:16:13,990 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-03-07 20:16:14,351 INFO com.tn.Demo55AllApplication [restartedMain] Started Demo55AllApplication in 0.851 seconds (process running for 308.579)
+2024-03-07 20:16:34,557 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-6 - Shutdown initiated...
+2024-03-07 20:16:34,561 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-6 - Shutdown completed.
+2024-03-07 20:16:37,528 INFO com.tn.Demo55AllApplication [restartedMain] Starting Demo55AllApplication using Java 17.0.9 with PID 10800 (D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All\target\classes started by ADMIN in D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All)
+2024-03-07 20:16:37,530 DEBUG com.tn.Demo55AllApplication [restartedMain] Running with Spring Boot v3.1.9, Spring v6.0.17
+2024-03-07 20:16:37,531 INFO com.tn.Demo55AllApplication [restartedMain] The following 1 profile is active: "local"
+2024-03-07 20:16:38,921 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2024-03-07 20:16:38,921 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-07 20:16:38,980 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2024-03-07 20:16:39,108 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-03-07 20:16:39,146 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 6.2.22.Final
+2024-03-07 20:16:39,147 INFO org.hibernate.cfg.Environment [restartedMain] HHH000406: Using bytecode reflection optimizer
+2024-03-07 20:16:39,322 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2024-03-07 20:16:39,542 INFO com.zaxxer.hikari.pool.HikariPool [restartedMain] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3f214fca
+2024-03-07 20:16:39,544 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2024-03-07 20:16:40,200 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-03-07 20:16:40,938 INFO com.tn.Demo55AllApplication [restartedMain] Started Demo55AllApplication in 3.871 seconds (process running for 4.653)
+2024-03-07 20:16:50,611 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-07 20:16:50,650 INFO com.tn.controller.AccountController [http-nio-8080-exec-1] Get all account
+2024-03-07 20:19:11,023 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2024-03-07 20:19:11,033 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2024-03-07 20:19:14,419 2024-03-07 20:19:14,419 2024-03-07 20:19:14,419 INFO com.tn.Demo55AllApplication [restartedMain] Starting Demo55AllApplication using Java 17.0.9 with PID 8064 (D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All\target\classes started by ADMIN in D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All)
+2024-03-07 20:19:14,421 2024-03-07 20:19:14,421 2024-03-07 20:19:14,421 DEBUG com.tn.Demo55AllApplication [restartedMain] Running with Spring Boot v3.1.9, Spring v6.0.17
+2024-03-07 20:19:14,422 2024-03-07 20:19:14,422 2024-03-07 20:19:14,422 INFO com.tn.Demo55AllApplication [restartedMain] The following 1 profile is active: "local"
+2024-03-07 20:19:15,715 2024-03-07 20:19:15,715 2024-03-07 20:19:15,715 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2024-03-07 20:19:15,715 2024-03-07 20:19:15,715 2024-03-07 20:19:15,715 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-07 20:19:15,774 2024-03-07 20:19:15,774 2024-03-07 20:19:15,774 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2024-03-07 20:19:15,947 2024-03-07 20:19:15,947 2024-03-07 20:19:15,947 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-03-07 20:19:15,999 2024-03-07 20:19:15,999 2024-03-07 20:19:15,999 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 6.2.22.Final
+2024-03-07 20:19:16,001 2024-03-07 20:19:16,001 2024-03-07 20:19:16,001 INFO org.hibernate.cfg.Environment [restartedMain] HHH000406: Using bytecode reflection optimizer
+2024-03-07 20:19:16,232 2024-03-07 20:19:16,232 2024-03-07 20:19:16,232 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2024-03-07 20:19:16,530 2024-03-07 20:19:16,530 2024-03-07 20:19:16,530 INFO com.zaxxer.hikari.pool.HikariPool [restartedMain] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1debed63
+2024-03-07 20:19:16,532 2024-03-07 20:19:16,532 2024-03-07 20:19:16,532 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2024-03-07 20:19:17,224 2024-03-07 20:19:17,224 2024-03-07 20:19:17,224 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-03-07 20:19:18,008 2024-03-07 20:19:18,008 2024-03-07 20:19:18,008 INFO com.tn.Demo55AllApplication [restartedMain] Started Demo55AllApplication in 4.056 seconds (process running for 4.891)
+2024-03-07 20:19:21,423 2024-03-07 20:19:21,423 2024-03-07 20:19:21,423 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-07 20:19:21,462 2024-03-07 20:19:21,462 2024-03-07 20:19:21,462 INFO com.tn.controller.AccountController [http-nio-8080-exec-1] Get all account
+2024-03-07 20:20:01,620 2024-03-07 20:20:01,620 2024-03-07 20:20:01,620 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2024-03-07 20:20:01,626 2024-03-07 20:20:01,626 2024-03-07 20:20:01,626 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2024-03-07 20:20:04,922 INFO com.tn.Demo55AllApplication [restartedMain] Starting Demo55AllApplication using Java 17.0.9 with PID 4596 (D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All\target\classes started by ADMIN in D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All)
+
+
+2024-03-07 20:20:04,925 DEBUG com.tn.Demo55AllApplication [restartedMain] Running with Spring Boot v3.1.9, Spring v6.0.17
+
+
+2024-03-07 20:20:04,927 INFO com.tn.Demo55AllApplication [restartedMain] The following 1 profile is active: "local"
+
+
+2024-03-07 20:20:06,273 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+
+
+2024-03-07 20:20:06,274 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/10.1.19]
+
+
+2024-03-07 20:20:06,366 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+
+
+2024-03-07 20:20:06,551 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+
+
+2024-03-07 20:20:06,598 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 6.2.22.Final
+
+
+2024-03-07 20:20:06,600 INFO org.hibernate.cfg.Environment [restartedMain] HHH000406: Using bytecode reflection optimizer
+
+
+2024-03-07 20:20:06,881 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+
+
+2024-03-07 20:20:07,184 INFO com.zaxxer.hikari.pool.HikariPool [restartedMain] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@35f84e8
+
+
+2024-03-07 20:20:07,187 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+
+
+2024-03-07 20:20:07,991 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+
+
+2024-03-07 20:20:08,821 INFO com.tn.Demo55AllApplication [restartedMain] Started Demo55AllApplication in 4.36 seconds (process running for 5.034)
+
+
+2024-03-07 20:20:12,744 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+
+2024-03-07 20:20:12,785 INFO com.tn.controller.AccountController [http-nio-8080-exec-1] Get all account
+
+
+2024-03-07 20:21:57,457 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+
+
+2024-03-07 20:21:57,464 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+
+
+2024-03-07 20:22:02,977 INFO com.tn.Demo55AllApplication [restartedMain] Starting Demo55AllApplication using Java 17.0.9 with PID 4324 (D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All\target\classes started by ADMIN in D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All)
+2024-03-07 20:22:02,979 DEBUG com.tn.Demo55AllApplication [restartedMain] Running with Spring Boot v3.1.9, Spring v6.0.17
+2024-03-07 20:22:02,980 INFO com.tn.Demo55AllApplication [restartedMain] The following 1 profile is active: "local"
+2024-03-07 20:22:04,447 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2024-03-07 20:22:04,447 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-07 20:22:04,499 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2024-03-07 20:22:04,654 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-03-07 20:22:04,690 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 6.2.22.Final
+2024-03-07 20:22:04,691 INFO org.hibernate.cfg.Environment [restartedMain] HHH000406: Using bytecode reflection optimizer
+2024-03-07 20:22:04,875 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2024-03-07 20:22:05,089 INFO com.zaxxer.hikari.pool.HikariPool [restartedMain] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@28dfe51
+2024-03-07 20:22:05,091 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2024-03-07 20:22:05,844 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-03-07 20:22:06,741 INFO com.tn.Demo55AllApplication [restartedMain] Started Demo55AllApplication in 4.286 seconds (process running for 5.083)
+2024-03-07 20:22:14,621 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-07 20:22:14,657 INFO com.tn.controller.AccountController [http-nio-8080-exec-1] Get all account
+2024-03-07 20:22:14,658 ERROR com.tn.controller.AccountController [http-nio-8080-exec-1] Account Id to delete is not found
+2024-03-07 20:25:25,773 INFO org.apache.catalina.core.StandardService [Thread-5] Stopping service [Tomcat]
+2024-03-07 20:25:25,776 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [Thread-5] Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-03-07 20:25:25,796 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown initiated...
+2024-03-07 20:25:25,805 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown completed.
+2024-03-07 20:25:25,904 INFO com.tn.Demo55AllApplication [restartedMain] Starting Demo55AllApplication using Java 17.0.9 with PID 4324 (D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All\target\classes started by ADMIN in D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All)
+2024-03-07 20:25:25,904 DEBUG com.tn.Demo55AllApplication [restartedMain] Running with Spring Boot v3.1.9, Spring v6.0.17
+2024-03-07 20:25:25,904 INFO com.tn.Demo55AllApplication [restartedMain] The following 1 profile is active: "local"
+2024-03-07 20:25:26,286 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2024-03-07 20:25:26,286 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-07 20:25:26,316 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2024-03-07 20:25:26,421 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-03-07 20:25:26,447 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Starting...
+2024-03-07 20:25:26,478 INFO com.zaxxer.hikari.pool.HikariPool [restartedMain] HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@783d2ab5
+2024-03-07 20:25:26,479 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Start completed.
+2024-03-07 20:25:26,600 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-03-07 20:25:27,045 INFO com.tn.Demo55AllApplication [restartedMain] Started Demo55AllApplication in 1.175 seconds (process running for 205.387)
+2024-03-07 20:25:28,464 INFO org.apache.catalina.core.StandardService [Thread-7] Stopping service [Tomcat]
+2024-03-07 20:25:28,472 INFO com.zaxxer.hikari.HikariDataSource [Thread-7] HikariPool-2 - Shutdown initiated...
+2024-03-07 20:25:28,480 INFO com.zaxxer.hikari.HikariDataSource [Thread-7] HikariPool-2 - Shutdown completed.
+2024-03-07 20:25:28,616 INFO com.tn.Demo55AllApplication [restartedMain] Starting Demo55AllApplication using Java 17.0.9 with PID 4324 (D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All\target\classes started by ADMIN in D:\Bk_Fullstack03_BK1.Backend23_02.23.11\Demo55_All)
+2024-03-07 20:25:28,616 DEBUG com.tn.Demo55AllApplication [restartedMain] Running with Spring Boot v3.1.9, Spring v6.0.17
+2024-03-07 20:25:28,616 INFO com.tn.Demo55AllApplication [restartedMain] The following 1 profile is active: "local"
+2024-03-07 20:25:29,034 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2024-03-07 20:25:29,034 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-07 20:25:29,059 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2024-03-07 20:25:29,112 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-03-07 20:25:29,132 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-3 - Starting...
+2024-03-07 20:25:29,148 INFO com.zaxxer.hikari.pool.HikariPool [restartedMain] HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@41eda8fc
+2024-03-07 20:25:29,148 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-3 - Start completed.
+2024-03-07 20:25:29,235 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-03-07 20:25:29,655 INFO com.tn.Demo55AllApplication [restartedMain] Started Demo55AllApplication in 1.088 seconds (process running for 207.998)

@@ -43,6 +43,10 @@ public class ConfigSecurity {
 
         httpSecurity.authorizeRequests().requestMatchers("/account/add").permitAll();
         httpSecurity.authorizeRequests().requestMatchers(HttpMethod.POST, "/account/save").permitAll();
+        httpSecurity.authorizeRequests().requestMatchers("/").permitAll();
+        httpSecurity.authorizeRequests().requestMatchers("/reset-password").permitAll();
+        httpSecurity.authorizeRequests().requestMatchers("/update-password/**").permitAll();
+        httpSecurity.authorizeRequests().requestMatchers(HttpMethod.POST,"/enter-password/**").permitAll();
         httpSecurity.authorizeRequests().anyRequest().authenticated();
 
         httpSecurity.formLogin();

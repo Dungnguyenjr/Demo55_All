@@ -39,6 +39,18 @@ public class AccountServiceImpl implements AccountService {
     }
 
     @Override
+    public Account getById(int id) {
+        Account account = accountRepo.findById(id).orElse(null);
+        return account;
+    }
+
+    @Override
+    public List<Account> search(String data) {
+        List<Account> accounts = accountRepo.searchData(data);
+        return accounts;
+    }
+
+    @Override
     public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
         Account account = accountRepo.findByUsername(username);
 

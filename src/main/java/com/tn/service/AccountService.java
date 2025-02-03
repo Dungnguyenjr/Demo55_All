@@ -12,4 +12,8 @@ public interface AccountService extends UserDetailsService {
     boolean delete(int id);
 
     boolean save(Account account);
+
+    Account getById(int id);
+
+    List<Account> search(String data);
 }

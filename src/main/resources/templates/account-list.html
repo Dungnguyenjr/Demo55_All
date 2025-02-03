@@ -8,6 +8,14 @@
 <body>
     <h4>List Account</h4>
     <a href="/account/add" class="btn btn-primary">Add</a>
+    <div class="container">
+        <div class="input-group mb-3">
+            <form action="/account-search" method="get">
+                <input type="text" name="data" th:value="${data}" class="form-control" placeholder="Search">
+                <button class="btn btn-success" type="submit">Search</button>
+            </form>
+        </div>
+    </div>
 
     <table class="table table-bordered">
         <thead>
@@ -18,8 +26,6 @@
                 <td>Department Name</td>
                 <td>Role</td>
                 <td>Is Active</td>
-
-                <td></td>
             </tr>
         </thead>
         <tbody>
@@ -30,6 +36,7 @@
                 <td th:text="${obj.departmentName}">Department Name</td>
                 <td th:text="${obj.role}">Role</td>
                 <td th:text="${obj.isActive}">Is Active</td>
+                <td><a th:href="@{/account-edit/{id}(id=${obj.id})}">Edit</a></td>
                 <td><a th:href="@{/account-delete/{id}(id=${obj.id})}">Delete</a></td>
             </tr>
         </tbody>
